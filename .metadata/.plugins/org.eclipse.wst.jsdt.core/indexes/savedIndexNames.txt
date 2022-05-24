@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/home/localadmin/Documents/Web Service/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1317381786.index
+1456014202.index
+105719270.index
+3537331670.index

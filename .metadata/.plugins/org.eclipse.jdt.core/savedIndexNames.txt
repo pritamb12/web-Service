@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+/home/localadmin/Documents/Web Service/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+893428981.index
+1317381786.index
+490016996.index
+3673376544.index
+2860696203.index
+3363805623.index
+3770184179.index
+3737883193.index
+1665367530.index
+1456014202.index
+263835251.index
+2637716017.index
+3341008415.index
+775480639.index

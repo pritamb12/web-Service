@@ -1,0 +1,23 @@
+package com.web.service;
+
+public class employeeImp implements Employee {
+
+	@Override
+	public void setName(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getAge() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
